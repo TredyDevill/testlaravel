@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                  PERCOBAAN PERTAMA
+                  Percobaan Tegar Sukses!!
                 </div>
             </div>
         </div>
