@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Pandu Jelek
+                    Kadek Pandu
                 </div>
             </div>
         </div>
