@@ -80,6 +80,8 @@
             <div class="content">
                 <div class="title m-b-md">
                     Kadek Pandu
+                    <br>
+                    <p>Pandu Jelek</p>
                 </div>
             </div>
         </div>
