@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Pandu Ganteng.
+                    Pandu Ganteng Banget.
                 </div>
             </div>
         </div>
