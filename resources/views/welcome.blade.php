@@ -79,6 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
+                  Coba Nad!
                   Fajar kalo nyanyi gaje!!
                 </div>
             </div>
