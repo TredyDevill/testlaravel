@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                  Percobaan Tegar Sukses!!
+                  Fajar kalo nyanyi gaje!!
                 </div>
             </div>
         </div>
