@@ -79,13 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-<<<<<<< HEAD
-                    Kadek Pandu
-                    <br>
-                    <p>Pandu Jelek</p>
-=======
-                    Pandu Ganteng Banget.
->>>>>>> origin
+                  Laravel!
                 </div>
             </div>
         </div>
